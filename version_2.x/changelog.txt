@@ -1,0 +1,2 @@
+AkDeskNote is renamed AkRemainder an project removed to Akers/AkRemainder
+All code is rewrited..
